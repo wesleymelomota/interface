@@ -1,0 +1,7 @@
+.container-profile{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 5px;
+    
+}

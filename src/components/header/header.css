@@ -1,0 +1,27 @@
+
+.header{
+    max-height: 400px;
+    width: auto;
+    display: flex;
+    margin-top: 8px;
+}
+
+.header .input{
+    width: 500px;
+    margin-left: 5px;
+    height: 100%;
+    margin: 3px;
+}
+
+.header .btn{
+    height: 120%;
+    background: rgb(48, 101, 247);
+    border: none;
+    margin-left: 2px;
+    border-radius: 3px 3px 3px 3px;
+    margin: 3px;
+    color: #fff;
+}
+.header .btn:hover{
+    background: rgb(91, 177, 247);
+}
